@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color:#000000;
+    color:#f6f6f6 ;
+}
+strong {
+    color:#22D4FD;
+} 
+h1 {
+    font-size: 50px; 
+    color:#f6f6f6
+}
+h2,h3,h4,h5,h6 {
+    font-size: 24px; 
+    color:#f6f6f6
+}
+
+p{
+    color: #EB7F2B;
+    font-size: 20px
+}
+img {
+    margin-left: 20px;
+    max-width: 350px;
+    border-radius: 20%; /* Cria um efeito de círculo para a imagem */
+}
+a[href="https://www.linkedin.com/feed/"] {
+    color: #22D4FD; 
+}
+a[href="https://github.com/LucascFelix"]{
+    color:#22D4FD;
+}
