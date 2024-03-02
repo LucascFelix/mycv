@@ -7,9 +7,13 @@ strong {
 } 
 h1 {
     font-size: 50px; 
-    color:#f6f6f6
+    color:blue
 }
-h2,h3,h4,h5,h6 {
+h2 {
+    font-size: 24px; 
+    color: #EB7F2B;
+}
+h3,h4,h5,h6 {
     font-size: 24px; 
     color:#f6f6f6
 }
